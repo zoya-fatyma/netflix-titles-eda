@@ -1,0 +1,16 @@
+Netflix Titles EDA 
+Exploratory Data Analysis of Netflix movies and TV shows using Python, Pandas, NumPy, and Matplotlib.
+📊 Project Overview 
+This project explores the Netflix Titles dataset to understand the content available on Netflix and identify useful patterns and trends.
+The analysis includes data cleaning, missing-value handling, feature creation, filtering, aggregation, and visualization.
+🗂️ Dataset 
+The dataset contains information about Netflix movies and TV shows, including:
+Title Type (Movie / TV Show) Director Cast Country Date Added Release Year Rating Duration Genre Description 🔍 Analysis Performed Checked dataset shape and data types Identified missing values Checked and handled duplicate records Cleaned date-related columns Created year_added and month_added features Analyzed Movies vs TV Shows Analyzed content ratings Explored release years Analyzed content duration Used filtering, value_counts(), groupby(), and aggregation Created visualizations to understand patterns in the data 🛠️ Tools & Libraries Python Pandas NumPy Matplotlib Google Colab Jupyter Notebook 📈 Key Insights 
+The analysis provides insights into:
+The distribution of Movies and TV Shows Common content ratings Content added to Netflix over time Distribution of movie durations Release-year trends Patterns in Netflix content 📁 Repository Contents Netflix_Titles_EDA.ipynb — Complete exploratory data analysis notebook README.md — Project documentation 🎯 Purpose 
+This project was created as part of my Data Science learning journey to practice practical Exploratory Data Analysis and build a portfolio using real-world datasets.
+👩‍💻 Author 
+Zoya Fatyma
+GitHub: zoya-fatyma
+
+
